@@ -1,4 +1,4 @@
-/*
+/*https://github.com/copilot-extensions/user-feedback.git
   Created by TEOS
   Domotic with Arduino https://goo.gl/btZpjs
   YouTube https://goo.gl/k7TUSZ
@@ -37,3 +37,5 @@ void loop() {
   resultSerialT = "Voltaje detectado: " + String(voltsT);
   Serial.println(resultSerialT);
 }
+
+control+shift+m tab esc tab
